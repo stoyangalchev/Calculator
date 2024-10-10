@@ -1,0 +1,32 @@
+$buttonPrimary: #ffa11f;
+$buttonSecondary: #9a999750;
+$textPrimary: #fefefe;
+
+.button {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-gap: 10px;
+
+  &__item {
+    font-size: 2rem;
+    border: none;
+    color: $textPrimary;
+    cursor: pointer;
+    border-radius: 30px;
+    outline: none;
+  }
+
+  &__clear {
+    grid-column: 1/4;
+  }
+
+  &__bg {
+    background-color: $buttonPrimary;
+  }
+
+  &__bg-orange {
+    background-color: $buttonSecondary;
+  }
+}
