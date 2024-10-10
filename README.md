@@ -25,12 +25,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/stoyangalchev/simple-calculator.git
+    git clone https://github.com/stoyangalchev/Calculator.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd simple-calculator
+    cd Calculator
     ```
 
 3. Install the dependencies:
