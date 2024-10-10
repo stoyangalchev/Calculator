@@ -2,7 +2,8 @@
 
 Welcome to **Simple Calculator**! This is a React-based calculator application that allows you to perform basic mathematical operations and keeps a history of all your calculations. 
 
-![## Deployment->](https://calculator-zeta-ten-24.vercel.app/)
+# Deployment 🌍 -> [Click this link](https://calculator-zeta-ten-24.vercel.app/).
+
 ![📸](./Screenshot.png)
 
 ## Features ✨
