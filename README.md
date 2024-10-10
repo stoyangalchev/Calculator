@@ -2,6 +2,8 @@
 
 Welcome to **Simple Calculator**! This is a React-based calculator application that allows you to perform basic mathematical operations and keeps a history of all your calculations. 
 
+![📸](./Screenshot.png)
+
 ## Features ✨
 
 - 📱 **Simple and responsive design** for easy use on any device.
